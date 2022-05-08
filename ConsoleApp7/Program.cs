@@ -1,3 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-Required
+int a = 3;
+if (a == 3)
+{
+    Console.WriteLine(a);
+}
