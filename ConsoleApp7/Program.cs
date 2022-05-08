@@ -4,4 +4,5 @@ int a = 3;
 if (a == 3)
 {
     Console.WriteLine(a);
+    Console.WriteLine("ces");
 }
