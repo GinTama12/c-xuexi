@@ -1,10 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-int a = 3;
-if (a == 3)
-{
-    Console.WriteLine(a);
-    Console.WriteLine("ces");
-    Console.WriteLine("dd");
-    Console.WriteLine();
-}
+﻿//DeepL.panduan();
+//Switch.sWitch();
+//ConsoleApp7.Class1.sWitch();
+ConsoleApp7.Class2.panduan();//判断是否闰年
+ConsoleApp7.Class1.sWitch(); //判断是哪个银行
+
+
